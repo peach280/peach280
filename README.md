@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋Hi,I'm Peach280!
 <br>I am a passionate Computer Science student pursuing my B.Tech 🎓, with a strong interest in open-source contributions 🌱.</br>I’m always on the lookout for innovative projects to work on and actively contribute to the open-source community 🌍. </br>Through these contributions, I’ve had the opportunity to collaborate with talented developers 🤝 and help improve existing codebases.</br>
 
 
